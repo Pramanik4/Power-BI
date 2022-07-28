@@ -29,3 +29,24 @@
 
 ![image](https://user-images.githubusercontent.com/75212387/181423745-beff3d01-270c-4c57-b7ae-7ec766cd0036.png)
 
+## Day2
+**View & Export Data**
+
+If I want to get the data of the highlighted part record by record than follow the steps:
+Step 1: Press control & Select that particular area
+
+![image](https://user-images.githubusercontent.com/75212387/181507806-c518f9fd-7a27-4c36-8804-1822cf522743.png)
+
+Step 2: Right click & select show data point as table than data will get displayed
+
+![image](https://user-images.githubusercontent.com/75212387/181508182-78e83353-6c74-4347-816a-239e3889e713.png)
+
+Step 3: If you want to share only this much of data as a file than at the top right corner there will be 3 dot symbol click on that
+
+![image](https://user-images.githubusercontent.com/75212387/181508428-de3b2aac-6855-4f85-87b5-92872a35dc62.png)
+
+Step 4: now , select Export data than it will ask you to save it.
+
+Step 5: That's it done
+
+
