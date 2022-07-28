@@ -49,4 +49,13 @@ Step 4: now , select Export data than it will ask you to save it.
 
 Step 5: That's it done
 
+**Map**
+
+![image](https://user-images.githubusercontent.com/75212387/181593098-d1e2e406-9d01-4d82-9947-a091c7546a95.png)
+
+**Filled Up**
+
+![image](https://user-images.githubusercontent.com/75212387/181595087-bcf380e0-c591-49a9-a805-88248f0fae9b.png)
+
+
 
