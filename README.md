@@ -57,5 +57,12 @@ Step 5: That's it done
 
 ![image](https://user-images.githubusercontent.com/75212387/181595087-bcf380e0-c591-49a9-a805-88248f0fae9b.png)
 
+**Map With Pie Chart**
+
+![image](https://user-images.githubusercontent.com/75212387/181657219-9bb9f737-7155-40c9-8c43-65a22d876352.png)
+
+**Formatting In Map**
+
+
 
 
