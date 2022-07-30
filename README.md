@@ -63,6 +63,12 @@ Step 5: That's it done
 
 **Formatting In Map**
 
+![image](https://user-images.githubusercontent.com/75212387/181862528-7850e1f6-2678-484b-8b35-2a58d6172990.png)
 
+**Change Background of Map**
+
+![image](https://user-images.githubusercontent.com/75212387/181862766-d14a6bfd-c0cf-4997-a4f4-67d315e78203.png)
+
+## Day3
 
 
