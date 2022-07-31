@@ -71,4 +71,26 @@ Step 5: That's it done
 
 ## Day3
 
+**Ceated A Table And Format It**
+
+![image](https://user-images.githubusercontent.com/75212387/182004756-c0ba0401-932d-4ad8-89e0-d3a9365666a4.png)
+
+**Aggregation In Power BI**
+
+![image](https://user-images.githubusercontent.com/75212387/182005027-b235cb14-f6f8-4bbd-abec-af9fc2896a13.png)
+
+![image](https://user-images.githubusercontent.com/75212387/182005059-5b4d53da-9cec-4b73-93c4-83494dba483a.png)
+
+**Matrix**
+
+![image](https://user-images.githubusercontent.com/75212387/182005245-c5c3332d-5181-42cc-b786-228674009e9f.png)
+
+**Hierarchies In Matrix**
+
+![image](https://user-images.githubusercontent.com/75212387/182005383-f1b5668e-ecae-427a-a618-5be4b03ce125.png)
+
+
+
+
+
 
