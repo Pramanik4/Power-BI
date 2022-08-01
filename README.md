@@ -90,7 +90,23 @@ Step 5: That's it done
 ![image](https://user-images.githubusercontent.com/75212387/182005383-f1b5668e-ecae-427a-a618-5be4b03ce125.png)
 
 
+**Gauge Chart**
 
+![image](https://user-images.githubusercontent.com/75212387/182053012-5e1535d6-0c5e-4ffa-968d-2e855f21ce76.png)
+
+![image](https://user-images.githubusercontent.com/75212387/182053026-c6759eca-b7e0-44f2-96b0-736cb5e99f79.png)
+
+**Card (Number)**
+
+![image](https://user-images.githubusercontent.com/75212387/182053490-cce5382c-08e5-4342-8e9c-e0e8e3fad8ad.png)
+
+**Number Card with Map**
+
+![image](https://user-images.githubusercontent.com/75212387/182053513-99de1da0-6d98-48e4-98ce-377b0497813d.png)
+
+As, I am clicking on any part in the map . It is showing me that particular place's sales, profit & quantity
+
+## Day5
 
 
 
