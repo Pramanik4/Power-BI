@@ -108,5 +108,10 @@ As, I am clicking on any part in the map . It is showing me that particular plac
 
 ## Day5
 
+**Card (Text)**
+
+Card with a Column Chart
+
+![image](https://user-images.githubusercontent.com/75212387/182266993-3af5d2e7-3aa3-4237-be35-e8f1c1596ba3.png)
 
 
