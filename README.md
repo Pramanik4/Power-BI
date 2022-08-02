@@ -114,4 +114,15 @@ Card with a Column Chart
 
 ![image](https://user-images.githubusercontent.com/75212387/182266993-3af5d2e7-3aa3-4237-be35-e8f1c1596ba3.png)
 
+**Card (Date)**
+
+Date Card with a Simple Table
+
+![image](https://user-images.githubusercontent.com/75212387/182268964-6704ddc3-7bb0-4d4c-bc32-c17bcb27eca4.png)
+
+**Multi Row Card**
+
+Multi Row Card with a Pie Chart
+
+![image](https://user-images.githubusercontent.com/75212387/182270244-c527921c-5aab-486b-89c2-1bef706179fa.png)
 
