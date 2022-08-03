@@ -126,3 +126,15 @@ Multi Row Card with a Pie Chart
 
 ![image](https://user-images.githubusercontent.com/75212387/182270244-c527921c-5aab-486b-89c2-1bef706179fa.png)
 
+## Day 6
+
+**Text Slicer**
+
+![image](https://user-images.githubusercontent.com/75212387/182495565-a14bb4a2-df71-45cb-980a-0b3244758537.png)
+
+**Number Slicer**
+
+![image](https://user-images.githubusercontent.com/75212387/182499770-32f60270-1f8e-4e76-a70d-d1804d72aebe.png)
+
+
+
